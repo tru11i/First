@@ -1,5 +1,6 @@
 Hello World
 Chopunya brilliantovaya pinccessa!!!
 artur koko
-shocolato
+shocolato koko koko
 masanya
+KOko koko koko
