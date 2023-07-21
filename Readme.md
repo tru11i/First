@@ -4,6 +4,6 @@ sdelaem 4 vetke posle sozdadim konflikt i rewim ego
 Test 4
 Prodoljaem rabotu po sozdaniu konflikta.
 postaraemsya iz vetki master soxranit Koko Koko Koko
-DODO DODO DODO
-DODO DODO DODO
+KOKO KOKO KOKO
+KOKO KOKO KOKO
 Rabota vipolnena Konflikt rewen!
